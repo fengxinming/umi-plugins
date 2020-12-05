@@ -1,0 +1,25 @@
+{
+  "name": "umi-plugin-stylus",
+  "version": "1.0.0",
+  "description": "A umijs plugin for using stylus",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengxinming/umi-plugins.git"
+  },
+  "keywords": [
+    "umi",
+    "umijs",
+    "umi-plugin"
+  ],
+  "author": "fengxinming <fxm0016@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengxinming/umi-plugins/issues"
+  },
+  "homepage": "https://github.com/fengxinming/umi-plugins#readme",
+  "peerDependencies": {
+    "stylus": ">=0.54.5",
+    "stylus-loader": ">=3.0.2"
+  }
+}

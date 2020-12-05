@@ -1,0 +1,30 @@
+{
+  "name": "umi-plugins",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Custom umi plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengxinming/umi-plugins.git"
+  },
+  "keywords": [
+    "umi",
+    "umijs",
+    "umi-plugins"
+  ],
+  "author": "fengxinming <fxm0016@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengxinming/umi-plugins/issues"
+  },
+  "homepage": "https://github.com/fengxinming/umi-plugins#readme",
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
