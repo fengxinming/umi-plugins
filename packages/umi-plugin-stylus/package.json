@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-stylus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A umijs plugin for using stylus",
   "main": "index.js",
   "repository": {

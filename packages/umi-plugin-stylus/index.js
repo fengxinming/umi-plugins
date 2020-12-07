@@ -1,5 +1,6 @@
 module.exports = function (api) {
   api.describe({
+    key: 'stylusLoader',
     config: {
       schema(Joi) {
         return Joi.object({
